@@ -1,0 +1,22 @@
+{
+  "name": "testnet",
+  "version": "1.0.0",
+  "description": "single-command blockchain testnet deployment",
+  "main": "index.js",
+  "bin": {
+    "testnet": "bin/testnet.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "command-exists": "^1.2.2",
+    "execa": "^0.8.0",
+    "fs-extra": "^4.0.2",
+    "json-stable-stringify": "^1.0.1",
+    "package-json-path": "^1.0.7"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Judd Keppel <kepzorz@gmail.com>",
+  "dependencies": {
+    "lotion": "git://github.com/keppel/lotion.git#judd/shea-tweaks",
+    "public-ip": "^2.3.5"
+  },
+  "license": "ISC"
+}
