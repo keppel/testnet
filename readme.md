@@ -1,3 +1,5 @@
+*note: deprecated. don't use this module right now.*
+
 # testnet
 
 Single-command deployment of testnets for [Lotion](https://github.com/keppel/lotion) apps via [now](https://zeit.co/now).
